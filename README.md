@@ -123,12 +123,6 @@ To add a new category:
 
 ---
 
-## Example Screenshot
-
-![Expense Tracker](./screenshot.png)
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -137,8 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any issues or suggestions, feel free to contact [your-email@example.com].
+For any issues or suggestions, feel free to contact [harshitha2252004@gmail.com].
 
 ---
-
-This `README.md` should give users clear instructions on how to set up, use, and customize the application!
