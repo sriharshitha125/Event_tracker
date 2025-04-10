@@ -125,6 +125,6 @@ To add a new category:
 
 ## Contact
 
-For any issues or suggestions, feel free to contact [harshitha2252004@gmail.com].
+For any issues or suggestions, feel free to contact [harshitha2552004@gmail.com].
 
 ---
